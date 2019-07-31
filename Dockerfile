@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM openjdk:8-jdk-alpine
+FROM registry.cn-beijing.aliyuncs.com/bmwpoc/jdk8
 
 # Add Maintainer Info
 MAINTAINER Bing <yuanbing1113@gmail.com>
